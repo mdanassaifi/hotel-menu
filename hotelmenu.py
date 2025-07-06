@@ -3,7 +3,7 @@ menu = {
     'Burger': 80,
     'Salad': 40,
     'Coffe': 25,
-    'Anas': 0.2,
+    'Anas': 0.2,.
 }
 
 print("Welcome to our Resturant, Here is our menu")
